@@ -66,7 +66,7 @@
  
  -[Facebook](https://www.facebook.com/janneandrea.rojasterrones)
  
- -Discord: Janne Andrea RT#2467
+ -[Correo personal](janneandreart@gmail.com)
  ##
  ##  comentario de @NoeParedes
  - Me gusta  el perfil de mi compañera. Noto que es perseverante en sus metas, le gusta aprender, colaborar y participar en actividades extracurriculares. Sus metas mostradas me hece saber lo buen estudiante que es.
