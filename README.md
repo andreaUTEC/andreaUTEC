@@ -52,10 +52,11 @@
   .Me gusta mucho el rock y las canciones viejitas.
   
   .Me ancantan las películas de terror.
-   
-
-  
-                                                          
+  .¿Qué lenguaje de programación me gustaría aprender más adelante? 📚
+   - Java 
+   - JavaScript
+   - C/C++
+   - Matlab                                                        
  ## Puedes encontrarme 🌐                              
                                                          
  
