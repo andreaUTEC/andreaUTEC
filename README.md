@@ -68,4 +68,4 @@
  -Discord: Janne Andrea RT#2467
  ##
  ##  comentario de @NoeParedes
- - Me gusta  el perfil de mi compañera. Noto que es perseverante en sus metas, le gusta aprender, colaborar y participar en actividades extracurriculares. Sus metas mostradas me hecen saber lo buen estudiante que es.
+ - Me gusta  el perfil de mi compañera. Noto que es perseverante en sus metas, le gusta aprender, colaborar y participar en actividades extracurriculares. Sus metas mostradas me hece saber lo buen estudiante que es.
