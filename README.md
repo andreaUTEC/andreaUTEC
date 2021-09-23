@@ -1,7 +1,7 @@
 
 print ("Hola mucho gusto, soy Andrea 😀✨")
 
-![alt text](https://previews.123rf.com/images/maslakhatul/maslakhatul1812/maslakhatul181200006/112771105-computer-science-engineering-education-doodle-art-with-black-and-white-color-outline-vector-illustra.jpg)
+![alt text](https://www.cyber-ist.com/wp-content/uploads/2020/12/computer-science.jpg)
 
 
 
@@ -24,7 +24,7 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 
 -🥰 Me considero muy perseverante y siempre intento dar lo mejor de mí.
 
--🧠🤓 Amo aprender por mi cuenta y complemetar lo que he aprendido.
+-🧠🤓 Amo reforzar lo que he aprendido junto a mis compañeros y profesores.
 
 -😇 Pertenezco al voluntariado CREA +
 
