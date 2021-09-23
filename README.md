@@ -9,7 +9,7 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 
 -🔵⚪ Actualmente estoy estudiando en UTEC (Universidad de Ingeniería y Tecnología) 
 
--🖥️ En la carrera de ciencia de la computación.
+-🖥️ En la carrera de ciencia de la computación.![alt text](![image](https://user-images.githubusercontent.com/91233193/134582307-2c6b3794-6923-454b-810d-0a4844c8abc0.png)
 
 -📚🎒 Estoy en mi primer ciclo.
 
@@ -22,7 +22,7 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 
 -🔴⚪🔴Soy peruana, vivo en la ciudad de Lima. 
 
--🥰 Me considero muy perseverante y siempre intento dar lo mejor de mí.                 ![alt text](https://user-images.githubusercontent.com/91233193/134582083-d85b86b8-171c-46a0-965d-4983be080fe6.png)
+-🥰 Me considero muy perseverante y siempre intento dar lo mejor de mí.
 
 
 -🧠🤓 Amo reforzar lo que he aprendido junto a mis compañeros y profesores.
