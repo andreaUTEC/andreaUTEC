@@ -18,7 +18,7 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 -🤗 Sé que día tras día construyo a la mejor versión de mí, trabajando duro sé que al terminar mi carrera estaré satisfecha de la profesional que con constancia y esfuerzo logro sus objetivos.
 
 
-       🌷------Ahora te hablare un poco más sobre mi, como Andrea------🌷
+       🌷---------------------------Ahora te hablare un poco más sobre mi, como Andrea-------------------------------🌷
 
 -🔴⚪🔴Soy peruana, vivo en la ciudad de Lima. 
 
