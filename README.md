@@ -1,7 +1,7 @@
 
 print ("Hola mucho gusto, soy Andrea 😀✨")
 
-![alt text](https://drive.google.com/file/d/1jNOf5HhMQDt87a1jcNG-bkLHPdm4ONpt/view?usp=sharing)
+![alt text](https://imgur.com/cpF0GC1)
 
 
 
