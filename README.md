@@ -1,5 +1,6 @@
 
-Hola, mucho gusto. Soy Andrea 😀✨👋
+Hola, mucho gusto. Soy Andrea 😀✨👋!
+
 
 
 
