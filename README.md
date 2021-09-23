@@ -11,7 +11,7 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 
 -🖥️ En la carrera de ciencia de la computación.![alt text]
 
--📚🎒Estoy en mi primer ciclo.(![image](https://w7.pngwing.com/pngs/701/321/png-transparent-happiness-cartoon-child-happy-little-girl-miscellaneous-comics-mammal-thumbnail.png)
+-📚🎒Estoy en mi primer ciclo.
 
 -🙌 Estoy aprendiendo distintos lenguajes de programación.
 
