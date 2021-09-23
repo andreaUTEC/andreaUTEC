@@ -1,5 +1,5 @@
 
-## print ("hola mucho gusto, soy Andrea 😀✨")
+## print ("Hola mucho gusto, soy Andrea 😀✨")
 
 ![alt text](https://media.istockphoto.com/vectors/computer-science-word-concepts-banner-vector-id1173372800)
 
