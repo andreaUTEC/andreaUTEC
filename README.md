@@ -1,6 +1,6 @@
 
 Hola, mucho gusto. Soy Andrea 😀✨
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_112771105_stock-vector-computer-science-engineering-education-doodle-art-with-black-and-white-color-outline-vector-illustra.html&psig=AOvVaw3A6cbDfoTIGaCCVG5r8IxV&ust=1632505745488000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOC35P_TlfMCFQAAAAAdAAAAABAZ)
+![alt text](https://previews.123rf.com/images/maslakhatul/maslakhatul1812/maslakhatul181200006/112771105-computer-science-engineering-education-doodle-art-with-black-and-white-color-outline-vector-illustra.jpg)
 
 
 
