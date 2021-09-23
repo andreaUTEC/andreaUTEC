@@ -12,7 +12,7 @@
 
 -🔵⚪ Actualmente estoy estudiando en UTEC (Universidad de Ingeniería y Tecnología) 
 
--🖥️ En la carrera de ciencia de la computación.![alt text]
+-🖥️ En la carrera de ciencias de la computación.!
 
 -📚🎒Estoy en mi primer ciclo.
 
