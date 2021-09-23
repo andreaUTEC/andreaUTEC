@@ -1,7 +1,7 @@
 
 print ("Hola mucho gusto, soy Andrea 😀✨")
 
-![alt text](https://imgur.com/cpF0GC1)
+![alt text](https://previews.123rf.com/images/maslakhatul/maslakhatul1812/maslakhatul181200007/127292937-computer-science-engineering-education-doodle-art-with-color-colour-full-fun-style-vector-illustrati.jpg)
 
 
 
