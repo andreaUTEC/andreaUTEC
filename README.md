@@ -33,22 +33,24 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 
   
   
-  🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸- MÁS SOBRE MI-🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸
-  
+  🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸
+ 
+   MÁS SOBRE MI
   
   .Tengo 18 años
+  
+  ..Pertenezco al voluntariado CREA + que ayuda a llevar la educación a los lugares más alejados, este año buscamos impactar a
+   más de 15 mil niñas y niños de 14 escuelas de 8 ciudades en Perú y Colombia.
   
   .Me gusta mucho el rock y las canciones viejitas.
   
   .Me ancantan las películas de terror.
-  
-  .Pertenezco al voluntariado CREA + que ayuda a llevar la educación a los lugares más alejados, este año buscamos impactar a
-   más de 15 mil niñas y niños de 14 escuelas de 8 ciudades en Perú y Colombia.
    
 
   
- 🌎🌎🌎🌎🌎🌎🌎🌎-PUEDES ENCONTRARME EN MIS REDES SOCIALES-🌎🌎🌎🌎🌎🌎🌎
+ 🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎
  
+ PUEDES CONTACTARME EN:
  
  .Instagram: https://www.instagram.com/invites/contact/?i=ly95bybroag7&utm_content=33iyutq
  
