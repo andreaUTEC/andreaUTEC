@@ -33,9 +33,8 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 
   
   
-  🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
  
-     MÁS SOBRE MI:                                       
+     MÁS SOBRE MI:  🌼                                     
                                                          
   
   
@@ -51,9 +50,8 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
    
 
   
- 🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎
                                                           
-    PUEDES CONTACTARME EN:                               
+    Puedes encontrarme 🌐                              
                                                          
  
  
