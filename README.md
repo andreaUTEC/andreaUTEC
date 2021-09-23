@@ -33,11 +33,11 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 
   
   
-  🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸
-  🌸                                                         🌼
-  🌼    MÁS SOBRE MI:                                        🌸
-  🌸                                                         🌼
-  🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸
+  🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸
+ 
+     MÁS SOBRE MI:                                       
+                                                         
+  
   
   
   .Tengo 18 años
@@ -51,11 +51,11 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
    
 
   
- 🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎
- 🌎                                                         🌎
- 🌎   PUEDES CONTACTARME EN:                                🌎
- 🌎                                                         🌎
- 🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎
+ 🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎🌎
+                                                          
+    PUEDES CONTACTARME EN:                               
+                                                         
+ 
  
  
  .Instagram: https://www.instagram.com/invites/contact/?i=ly95bybroag7&utm_content=33iyutq
