@@ -1,11 +1,14 @@
 
-print ("Hola mucho gusto, soy Andrea 😀✨")
+## print ("Hola mucho gusto, soy Andrea 😀✨")
 
 ![alt text](https://media.istockphoto.com/vectors/computer-science-word-concepts-banner-vector-id1173372800)
 
 
 
-       📚✏️------A continuación te presento algunas características de mi como estudiante y futura profesional------📚✏️
+ ## 📚✏️A continuación te presento algunas características de mi como estudiante y futura profesional📚✏️  
+
+       
+
 
 -🔵⚪ Actualmente estoy estudiando en UTEC (Universidad de Ingeniería y Tecnología) 
 
@@ -18,7 +21,9 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 -🤗 Sé que día tras día construyo a la mejor versión de mí, trabajando duro sé que al terminar mi carrera estaré satisfecha de la profesional que con constancia y esfuerzo logro sus objetivos.
 
 
-       🌷---------------------------Ahora te hablare un poco más sobre mi, como Andrea-------------------------------🌷
+## 🌷--------------Ahora te hablare un poco más sobre mi, como Andrea------------------🌷
+
+   ![200](https://user-images.githubusercontent.com/91233193/134591396-b741a84b-050b-41f7-b9c4-beabfe529064.gif)
 
 -🔴⚪🔴Soy peruana, vivo en la ciudad de Lima. 
 
@@ -34,7 +39,7 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
   
   
  
-     MÁS SOBRE MI:  🌼                                     
+ ## MÁS SOBRE MI:  🌼                                     
                                                          
   
   
@@ -51,17 +56,19 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 
   
                                                           
-    Puedes encontrarme 🌐                              
+ ## Puedes encontrarme 🌐                              
                                                          
  
  
  
- .Instagram: https://www.instagram.com/invites/contact/?i=ly95bybroag7&utm_content=33iyutq
+ -Instagram: https://www.instagram.com/invites/contact/?i=ly95bybroag7&utm_content=33iyutq
  
- .Facebook:  https://www.facebook.com/janneandrea.rojasterrones
+ -Facebook:  https://www.facebook.com/janneandrea.rojasterrones
  
- .Discord:   Janne Andrea RT#2467
+ -Discord:   Janne Andrea RT#2467
  
+ 
+
 
 
 
