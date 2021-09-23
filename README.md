@@ -5,7 +5,7 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 
 
 
-       📚✏️ A continuación te presento algunas características de mi como estudiante y futura profesional 📚✏️
+       📚✏️------A continuación te presento algunas características de mi como estudiante y futura profesional------📚✏️
 
 -🔵⚪ Actualmente estoy estudiando en UTEC (Universidad de Ingeniería y Tecnología) 
 
@@ -18,7 +18,7 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 -🤗 Sé que día tras día construyo a la mejor versión de mí, trabajando duro sé que al terminar mi carrera estaré satisfecha de la profesional que con constancia y esfuerzo logro sus objetivos.
 
 
-       🌷 Ahora te hablare un poco más sobre mi, como Andrea 🌷
+       🌷------Ahora te hablare un poco más sobre mi, como Andrea------🌷
 
 -🔴⚪🔴Soy peruana, vivo en la ciudad de Lima. 
 
@@ -27,15 +27,23 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 
 -🧠🤓 Amo reforzar lo que he aprendido junto a mis compañeros y profesores.
 
--😇 Pertenezco al voluntariado CREA +
 
 -✨📚 Mi pasatiempo es aprender nuevas cosas, considero que ahora el internet permite aprender infinidad de cosas desde cero, y obviamente no desperdicio esa oportunidad.
 
 
-🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻
-     🌼🌸- MÁS SOBRE MI-🌼🌸
-🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻🌻
+  🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸- MÁS SOBRE MI-🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸
+  
+  .Tengo 18 años
+  .Me gusta mucho el rock y las canciones viejitas.
+  .Me ancantan las películas de terror.
+  .Pertenezco al voluntariado CREA + que ayuda a llevar la educación a los lugares más alejados, este año buscamos impactar a
+    más de 15 mil niñas y niños de 14 escuelas de 8 ciudades en Perú y Colombia.
 
+  
+ 🤓🤓🌎🌎🌎🌎🌎🌎-PUEDES ENCONTRARME EN MIS REDES SOCIALES-🌎🌎🌎🌎🌎🤓🤓
+ .Instagram: https://www.instagram.com/invites/contact/?i=ly95bybroag7&utm_content=33iyutq
+ .Facebook:https://www.facebook.com/janneandrea.rojasterrones
+ .Discord:Janne Andrea RT#2467
 
 
 
