@@ -31,7 +31,10 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 -✨📚 Mi pasatiempo es aprender nuevas cosas, considero que ahora el internet permite aprender infinidad de cosas desde cero, y obviamente no desperdicio esa oportunidad.
 
 
+  
+  
   🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸- MÁS SOBRE MI-🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸🌼🌸
+  
   
   .Tengo 18 años
   
@@ -40,16 +43,18 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
   .Me ancantan las películas de terror.
   
   .Pertenezco al voluntariado CREA + que ayuda a llevar la educación a los lugares más alejados, este año buscamos impactar a
-    más de 15 mil niñas y niños de 14 escuelas de 8 ciudades en Perú y Colombia.
+   más de 15 mil niñas y niños de 14 escuelas de 8 ciudades en Perú y Colombia.
+   
 
   
  🌎🌎🌎🌎🌎🌎🌎🌎-PUEDES ENCONTRARME EN MIS REDES SOCIALES-🌎🌎🌎🌎🌎🌎🌎
  
+ 
  .Instagram: https://www.instagram.com/invites/contact/?i=ly95bybroag7&utm_content=33iyutq
  
- .Facebook:https://www.facebook.com/janneandrea.rojasterrones
+ .Facebook:  https://www.facebook.com/janneandrea.rojasterrones
  
- .Discord:Janne Andrea RT#2467
+ .Discord:   Janne Andrea RT#2467
  
 
 
