@@ -9,9 +9,9 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 
 -🔵⚪ Actualmente estoy estudiando en UTEC (Universidad de Ingeniería y Tecnología) 
 
--🖥️ En la carrera de ciencia de la computación.![alt text](![image](https://user-images.githubusercontent.com/91233193/134582307-2c6b3794-6923-454b-810d-0a4844c8abc0.png)
+-🖥️ En la carrera de ciencia de la computación.![alt text]
 
--📚🎒 Estoy en mi primer ciclo.
+-📚🎒Estoy en mi primer ciclo.(![image](https://w7.pngwing.com/pngs/701/321/png-transparent-happiness-cartoon-child-happy-little-girl-miscellaneous-comics-mammal-thumbnail.png)
 
 -🙌 Estoy aprendiendo distintos lenguajes de programación.
 
