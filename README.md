@@ -61,7 +61,7 @@
  
  
  
- -[Instagram](https://www.instagram.com/invites/contact/?i=ly95bybroag7&utm_content=33iyutq)
+ -[Instagram](https://www.instagram.com/andrea__i3)
  
  -[Facebook](https://www.facebook.com/janneandrea.rojasterrones)
  
