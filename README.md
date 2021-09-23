@@ -25,7 +25,7 @@
 
    ![200](https://user-images.githubusercontent.com/91233193/134591396-b741a84b-050b-41f7-b9c4-beabfe529064.gif)
 
--🔴⚪🔴Soy peruana, vivo en la ciudad de Lima. 
+-🔴⚪🔴 Soy peruana, vivo en la ciudad de Lima. 
 
 -🥰 Me considero muy perseverante y siempre intento dar lo mejor de mí.
 
@@ -61,22 +61,11 @@
  
  
  
- -Instagram: https://www.instagram.com/invites/contact/?i=ly95bybroag7&utm_content=33iyutq
+ -[Instagram](https://www.instagram.com/invites/contact/?i=ly95bybroag7&utm_content=33iyutq)
  
- -Facebook:  https://www.facebook.com/janneandrea.rojasterrones
+ -[Facebook](https://www.facebook.com/janneandrea.rojasterrones)
  
- -Discord:   Janne Andrea RT#2467
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
+ -Discord: Janne Andrea RT#2467
+ ##
+ ##  comentario de @NoeParedes
+ - Me gusta  el perfil de mi compañera. Noto que es perseverante en sus metas, le gusta aprender, colaborar y participar en actividades extracurriculares. Sus metas mostradas me hecen saber lo buen estudiante que es.
