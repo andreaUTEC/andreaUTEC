@@ -31,6 +31,8 @@ print ("Hola mucho gusto, soy Andrea 😀✨")
 
 -✨📚 Mi pasatiempo es aprender nuevas cosas, considero que ahora el internet permite aprender infinidad de cosas desde cero, y obviamente no desperdicio esa oportunidad.
 
+https://lh3.googleusercontent.com/proxy/E2NGiFxV-33L149C1DMz1-RIz28B8ycu--oL19EECQ7KPWUvgjGD3HV-uD7fw_Oe1-tYGYYuoq7QhDENJIid18Th-H9UKDHxHGISGHu0MsBzqNzPwzkT6XFY3BCyYw
+
 
 
 
