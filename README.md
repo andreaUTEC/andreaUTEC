@@ -1,7 +1,7 @@
 
 print ("Hola mucho gusto, soy Andrea 😀✨")
 
-![alt text](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1703/karpenkoilia170300035/74775066-banner-de-web-para-inform%C3%A1tica-concepto-lineal-moderno-para-la-programaci%C3%B3n-inform%C3%A1tica-.jpg)
+![alt text](https://media.istockphoto.com/vectors/computer-science-word-concepts-banner-vector-id1173372800)
 
 
 
