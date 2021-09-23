@@ -1,7 +1,7 @@
 
 print ("Hola mucho gusto, soy Andrea 😀✨")
 
-![alt text](http://crawforduniversity.edu.ng/conas/wp-content/uploads/2020/06/computer-science-header-1024x370.jpg)
+![alt text](https://thumbs.dreamstime.com/b/l%C3%ADnea-concepto-del-vector-del-web-para-de-inform%C3%A1tica-82810778.jpg)
 
 
 
