@@ -44,7 +44,7 @@
   
   
   
-  .😊 Tengo 18 años
+  .😊🦋Tengo 18 años
   
   .💙🤍Pertenezco al voluntariado CREA + que ayuda a llevar la educación a los lugares más alejados, este año buscamos impactar a
    más de 15 mil niñas y niños de 14 escuelas de 8 ciudades en Perú y Colombia.
@@ -53,7 +53,7 @@
   
   .🎧🎸Me gusta mucho el rock y las canciones viejitas.
   
-  .😁⭐Me ancantan las películas de terror.
+  .😁👀Me ancantan las películas de terror.
 ## Lenguajes de programación que me gustaría aprender más adelante: 📚
    - Java 
    - JavaScript
