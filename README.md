@@ -68,7 +68,7 @@
  
  -[Facebook](https://www.facebook.com/janneandrea.rojasterrones)
  
- -Correo electrónico:janneandreart@gmail.com
+ -Correo electrónico: janneandreart@gmail.com
  ##
  ##  Comentario de: NoeParedes
  - Me gusta  el perfil de mi compañera. Noto que es perseverante en sus metas, le gusta aprender, colaborar y participar en actividades extracurriculares. Sus metas mostradas me hece saber lo buen estudiante que es.
