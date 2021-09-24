@@ -39,7 +39,7 @@
   
   
  
- ## MÁS SOBRE MI:  🌼                                     
+ ## MÁS SOBRE Mí:  🌼                                     
                                                          
   
   
