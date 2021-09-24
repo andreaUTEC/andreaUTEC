@@ -21,7 +21,7 @@
 -🤗 Sé que día tras día construyo a la mejor versión de mí, trabajando duro sé que al terminar mi carrera estaré satisfecha de la profesional que con constancia y esfuerzo logro sus objetivos.
 
 
-## 🌷--------------Ahora te hablare un poco más sobre mi, como Andrea------------------🌷
+## 🌷--------------Ahora te hablare un poco más sobre mi....como Andrea------------------🌷
 
    ![200](https://user-images.githubusercontent.com/91233193/134591396-b741a84b-050b-41f7-b9c4-beabfe529064.gif)
 
