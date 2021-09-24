@@ -54,7 +54,7 @@
   .Me gusta mucho el rock y las canciones viejitas.
   
   .Me ancantan las películas de terror.
-## ¿Qué lenguaje de programación me gustaría aprender más adelante? 📚
+## Lenguajes de programación que me gustaría aprender más adelante: 📚
    - Java 
    - JavaScript
    - C/C++
@@ -63,7 +63,7 @@
    ![descarga (7)](https://user-images.githubusercontent.com/91269836/134603243-971a98f1-8ff7-4760-b5f9-5941dca06ac5.png)
 
    
- ## Puedes encontrarme 🌐                              
+ ## Pueden encontrarme 🌐                              
                                                          
  
  
