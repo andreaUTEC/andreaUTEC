@@ -74,5 +74,5 @@
  
  -Correo electrónico: janneandreart@gmail.com
  ##
- ##  Comentario de: NoeParedes
+ ##  Comentario de: NoeParedes 
  - Me gusta  el perfil de mi compañera. Noto que es perseverante en sus metas, le gusta aprender, colaborar y participar en actividades extracurriculares. Sus metas mostradas me hacen saber lo buen estudiante que es.
